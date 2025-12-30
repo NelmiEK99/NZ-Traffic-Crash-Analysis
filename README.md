@@ -1,4 +1,4 @@
-```md
+
 # NZ-Traffic-Crash-Analysis (2000–Mar 2025)
 
 Analysis of New Zealand road crash data from the **Crash Analysis System (CAS)**.  
